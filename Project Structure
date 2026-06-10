@@ -1,0 +1,26 @@
+ResearchMind-AI/
+│
+├── app.py
+├── requirements.txt
+├── config.py
+│
+├── agents/
+│   ├── planner.py
+│   ├── researcher.py
+│   ├── verifier.py
+│   └── writer.py
+│
+├── memory/
+│   └── vector_store.py
+│
+├── tools/
+│   ├── web_search.py
+│   ├── scraper.py
+│   └── pdf_export.py
+│
+├── database/
+│   └── history.db
+│
+├── reports/
+│
+└── README.md
